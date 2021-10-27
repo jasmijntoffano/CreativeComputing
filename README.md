@@ -98,13 +98,15 @@ Atom has an option to toggle Markdown Preview, such that while I write I can vie
 To upload my file, I would use GitHub Desktop, and there are two steps to it:
 1. _Commit_: in this step I entered a small description of what the changes are.
 
-![commit screenshot](images/sixth_screenshot.png)
+![commit screenshot](images/sixth_screenshot.jpg)
 
 2. _Push_: this is when the file on GitHub is uploaded.
 
-![commit screenshot](images/seventh_screenshot.png)
+![commit screenshot](images/seventh_screenshot.jpg)
 
 ## References
 To be completed:
+
+https://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup
 
 https://daringfireball.net/projects/markdown/syntax
