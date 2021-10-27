@@ -27,6 +27,6 @@ HCI: Human Computer Interaction
 
 OSS: Open-source software
 
-Open source example: This is an example of open source we made in class on 25 Oct. The task was to design an house and each person in the class had only 60 second, they could copy/edit/delete what was already designed on the paper.
+Open source example: This is an example of open source we made in class with all students during the workshop. The task was to draw a house and each person had only 60 second to copy/edit/delete what was already designed on the paper.
 
 ![open source](house_picture.png)
