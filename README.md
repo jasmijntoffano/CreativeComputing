@@ -104,6 +104,80 @@ To upload my file, I would use GitHub Desktop, and there are two steps to it:
 
 ![commit screenshot](images/seventh_screenshot.jpg)
 
+---
+# Arduino
+Next, I focused on experimenting with Arduino.
+
+## Getting started
+
+In the Monday workshop  we started to familiarise with Arduino. After putting every wire in wherever was possible, I watched some instructions online, and with some help from my classmates, I managed to get started with Arduino, what was very exiting.  With this very little knowledge of putting on a green led light, I went home and immerse myself in Arduino.
+
+![Arduino green](images/Arduino_green.png)
+![Arduino green on](images/Arduino_green_on.png)
+Figure 1: First experimentation with Arduino.
+
+
+Arduino is a circuit board that have microcontroller chips on them.
+
+**Microcontroller**:  The chip that connect your USB cable to the Arduino board, and communicate via USB.  This chip allow to send messages back and forward between your computer and your Arduino.
+![Microcontroler](images/Microcontroler.png)
+
+**Power pins**: you can connect wires here.
+![Power_pins](images/Power_pins.png)
+
+**TX and RX**:  for sending and receiving data. It's possible to use this port to send and receive data from a GPS module, Bluetooth modules, wifi modules etc.
+![TXandRX](images/TXandRX.png)
+
+**Pin 2 to 13** are for digital inputs and outputs.
+![Pin2to13](images/Pin2to13.png)
+
+These are **6 analog input pins**. These are used to measure continuous voltages anywhere from 1 to 5v.
+![6analogpins](images/6analogpins.png)
+
+## Quote that inspired me
+> “When you take technology and mix it with art, you always come up with something innovative”
+<p style='text-align: right;'> Robert Rodriguez </p>
+
+I  researched  how to use Arduino and after several youtube videos, I finally found one explains how to use Arduino in an easy way.  Thank too Paul McWhorter I started to code with Arduino, and  feel very exited about this new skill I’m learning.
+
+
+
+
+
+**Notes from the youtube cannel of Paul McWhorter**: Arduino Tutorial 1: Setting Up and Programming the Arduino for Absolute Beginners.
+
+**Bare minimum**: where you always start when you’re writing a program.
+
+The command that you will put on -> `void setup`  will be executed one time.
+
+The command on `void loop`, will we be executed over and over again.
+Pin 13 is already hooked up to a little LED on the board.
+
+First experiment with Arduino turning the lED light on pin 13 on and out and change speed.
+
+Code:  
+
+```
+void setup() {
+  // put your setup code here, to run once:
+pinMode (13,OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+digitalWrite(13,HIGH);
+delay(900);
+digitalWrite(13,LOW);
+delay(1000);
+}
+
+```
+
+I have changed the code, putting on delay in the code so that  I can control the LED light on the board and decide the speed of the turning on and off.
+
+Learned this, I wondered if I could reproduce the bouncing lights on the speed that I heard the first time I heard my daughter heart beat in my belly. I had recorded this in one of the midwives appointments, and kept it on my laptop. 
+
+
 ## References
 To be completed:
 
