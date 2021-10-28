@@ -177,6 +177,39 @@ I have changed the code, putting on delay in the code so that  I can control the
 
 Learned this, I wondered if I could reproduce the bouncing lights on the speed that I heard the first time I heard my daughter heart beat in my belly. I had recorded this in one of the midwives appointments, and kept it on my laptop.
 
+----
+## Process Outcome
+
+With all I learned, I wrote this code
+
+```
+void setup() {
+  // put your setup code here, to run once:
+pinMode(13,OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+digitalWrite(13,HIGH);
+delay(50);
+digitalWrite(13,LOW);
+delay(100);
+}
+```
+This code would make the light flash.
+
+
+I researched how to flash a light on the rhythm of the sound. However I was missing one piece: sound microphone sensor detection module for Arduino. So I tried to solve this problem by playing the sound and synchronising the light and I filmed it.  
+
+---
+# Outcome
+
+[![youtube video](images/video.png)](https://youtu.be/or2ljOt0fgU)
+
+---
+
+
+
 
 ## References
 To be completed:
@@ -243,3 +276,5 @@ To be completed:
 * https://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup
 
 * https://daringfireball.net/projects/markdown/syntax
+
+* https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
