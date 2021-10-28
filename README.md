@@ -199,7 +199,9 @@ delay(100);
 This code would make the light flash.
 
 
-I researched how to flash a light on the rhythm of the sound. However I was missing one piece: sound microphone sensor detection module for Arduino. So I tried to solve this problem by playing the sound and synchronising the light and I filmed it.  
+I researched how to flash a light on the rhythm of the sound. However I was missing one piece: sound microphone sensor detection module for Arduino. So I tried to solve this problem by playing the sound and synchronising the light and I filmed it.
+
+The quality of the sound of the video is not optimal because I recorded it with my phone. If I would have had more time I would have made a better video. 
 
 ---
 # Outcome
