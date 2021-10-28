@@ -175,12 +175,71 @@ delay(1000);
 
 I have changed the code, putting on delay in the code so that  I can control the LED light on the board and decide the speed of the turning on and off.
 
-Learned this, I wondered if I could reproduce the bouncing lights on the speed that I heard the first time I heard my daughter heart beat in my belly. I had recorded this in one of the midwives appointments, and kept it on my laptop. 
+Learned this, I wondered if I could reproduce the bouncing lights on the speed that I heard the first time I heard my daughter heart beat in my belly. I had recorded this in one of the midwives appointments, and kept it on my laptop.
 
 
 ## References
 To be completed:
 
-https://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup
+* https://www.youtube.com/watch?v=MmCGDJ90Qt4
 
-https://daringfireball.net/projects/markdown/syntax
+* https://www.w3schools.com/html/html_images.asp
+
+* https://www.tinkercad.com/things/jRqrrivMOat-editing-components/editel?lessonid=EFU6PEHIXGFUR1J&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA&tenant=circuits#/lesson-viewer
+
+* https://www.markdownguide.org/basic-syntax/
+
+* https://www.youtube.com/watch?v=e1FVSpkw6q4
+
+* http://www.smoothware.com/danny/
+
+* https://stackoverflow.com/questions/39014605/qooxdoo-image-centering/39015867#39015867
+
+* https://www.instructables.com/Led-Cube-5x5x5-A-small-student-project/
+
+* https://apple.stackexchange.com/questions/120624/which-application-to-preview-md-files
+
+* https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
+
+* https://stackoverflow.com/questions/35465557/how-to-apply-color-in-markdown
+
+* https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github
+
+* https://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup
+
+* https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+* https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-windows-version-ea596b398b
+
+* https://docs.github.com/en/get-started/quickstart/set-up-git
+
+
+* https://www.youtube.com/watch?v=TI3yVcSahzk
+
+* https://atom.io
+
+* https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj0n6Wx6-zzAhWN3-0KHQ3oCTwYABACGgJkZw&ae=2&ohost=www.google.com&cid=CAESQOD26Iq-UxgBetr1hombwXMZo6Pr0f2UYWcQcF0cviCjd7ls5TFxL__AkyqTCbE06NKIIRu28-2OfXTnbM4X2Ps&sig=AOD64_2eHFRRHPjpESfnj0NAMoZe2zXwxQ&q&adurl&ved=2ahUKEwiksp2x6-zzAhXZQUEAHe8-D3UQ0Qx6BAgCEAE&dct=1
+
+
+* https://qatalog.com/integrate/github/?utm_medium=paid-google&utm_source=search&utm_campaign=0221-partner-integrations&utm_content=github&gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7l5zP_JMX8mBBonSty8sdMkJwNsyt55PCnEpkqbn8qxytr2-wM9230aAkx1EALw_wcB
+
+* https://en.wikipedia.org/wiki/Computer_terminal
+
+* https://forum.arduino.cc/?_gl=1\*9sevjx\*\_ga\*MTMwMDU3Mjk0OS4xNjM1MjAxMTc3\*\_ga_NEXN8H46L5\*MTYzNTQxNjkzNC4zLjAuMTYzNTQxNjkzNC4w
+
+
+* https://www.youtube.com/watch?v=fJWR7dBuc18  (Fantastic!)
+
+
+* https://www.youtube.com/watch?v=CfdaJ4z4u4w
+
+
+* https://clideo.com/loop-video
+
+* https://www.aconvert.com/audio/split/
+
+* https://create.arduino.cc/projecthub/Code_and_Make/how-to-make-music-with-an-arduino-09ff1e
+
+* https://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup
+
+* https://daringfireball.net/projects/markdown/syntax
